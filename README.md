@@ -60,3 +60,6 @@ grid-tamplat-columns: 1fr ;
 - [x] about page
 - [] contect page
 - [] contect page
+
+## link 
+CSS framework [W3school](https://pythontutor.com/render.html#mode=display)
