@@ -55,3 +55,8 @@ For i in range(10):
 Diplay : gird ;
 grid-tamplat-columns: 1fr ;
 ```
+
+- [x] Home page
+- [x] about page
+- [] contect page
+- [] contect page
